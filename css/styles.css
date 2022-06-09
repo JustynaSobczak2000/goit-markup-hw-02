@@ -1,0 +1,246 @@
+header {
+    width: 1600px;
+    height: 80px;
+    background: #FFFFFF;
+}
+
+.link2{
+    color: #212121;
+    text-decoration: none;
+    width: 145px;
+height: 31px;
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 1.19;
+letter-spacing: 0.03em;
+}
+h3{
+    width: 72px;
+    height: 19px;
+    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.19;
+    
+    text-align: center;
+    letter-spacing: 0.03em;
+    
+    }
+.link3{
+    color: #FFFFFF;
+    text-decoration: none;
+        width: 145px;
+        height: 31px;
+        
+        
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 1.19;
+        letter-spacing: 0.03em;
+}
+
+span {
+    color: #2196F3;
+}
+
+.link{
+    text-decoration: none;
+    width: 135px;
+    height: 16px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+.lista{  
+    cursor: pointer;
+    list-style: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+}
+
+
+section[class="nagłówek"]{
+    width: 1600px;
+    height: 600px;
+    text-align: center;
+    background: #2F303A;
+}
+h1 {
+    text-align: center;
+    font-style: normal;
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 1.36;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    background-color: #2F303A;
+    color: #FFFFFF;
+}
+div {
+    background-color: #FFFFFF;
+}
+
+#lorem{
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.03em;
+}
+
+
+button{
+    cursor: pointer;
+    background: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    color: #FFFFFF; 
+}
+
+p [class="text"]{
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
+    color: #757575;
+}
+section{
+    background-color: #E5E5E5;
+}
+#title{
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.17;
+text-align: center;
+
+letter-spacing: 0.03em;
+}
+
+#title1{
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.17;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+}
+img[alt="domeone writting on keyboard"]{
+width: 370px;
+height: 294px;
+
+background: url(images/Czymsięzajmujemy/img1.jpg);
+mix-blend-mode: normal;
+}
+img[alt="someone use his phone near his laptop"]{
+width: 370px;
+height: 294px;
+
+
+background: url(images/Czymsięzajmujemy/img2.jpg);
+}
+img[alt="someone looking at colour palette at his tablet"]{
+width: 370px;
+height: 294px;
+
+
+background: url(images/Czymsięzajmujemy/img3.jpg);
+}
+img[src="images/Naszzespół/ludzie1.jpg"]{
+width: 270px;
+height: 260px;
+background: url(images/Naszzespół/ludzie1.jpg);
+border-radius: 0px;
+}
+img[src="images/Naszzespół/ludzie2.jpg"]{
+width: 270px;
+height: 260px;
+background: url(images/Naszzespół/ludzie2.jpg);
+border-radius: 0px;
+}
+img[src="images/Naszzespół/ludzie3.jpg" ]{
+width: 270px;
+height: 260px;
+background: url(images/Naszzespół/ludzie3.jpg);
+border-radius: 0px;
+}
+img[src="images/Naszzespół/ludzie4.jpg" ]{
+width: 270px;
+height: 260px;
+background: url(images/Naszzespół/ludzie4.jpg);
+border-radius: 0px;
+}
+footer{
+width: 1600px;
+height: 252px;
+background: #2F303A;
+}
+
+
+li [class="images"]{
+width: 270px;
+height: 368px;
+background: #FFFFFF;
+box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+border-radius: 0px 0px 4px 4px;
+
+}
+p[class="images"]{
+width: 130px;
+height: 19px;
+
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.19;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #757575;
+}
+address{
+width: 246px;
+height: 21px;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+}
+.link1{
+    width: 231px;
+    height: 21px;
+        
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71; 
+    letter-spacing: 0.03em;    
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+ }
+body{
+    font-family: 'Roboto';
+    color: #212121;
+    background-color: #E5E5E5;
+}
+nav{
+    width: 1600px;
+    height: 80px;
+    background: #FFFFFF;
+}
