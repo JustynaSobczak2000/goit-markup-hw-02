@@ -1,5 +1,4 @@
 header {
-    height: 80px;
     background: #FFFFFF;}
 
 body{
@@ -7,16 +6,13 @@ body{
     color: #212121;}
 
 section[class="nagłówek"]{
-    height: 600px;
     text-align: center;
     background: #2F303A;}
 
 footer{
-    height: 252px;
     background: #2F303A;}
 
 nav{
-    height: 80px;
     background: #FFFFFF;}
 
 div {
@@ -34,25 +30,24 @@ a[class="agencja"]{
     color:#212121;
     text-decoration: none;}
 
+a[class="portfolio"]{
+    color:#212121;
+    text-decoration: none;}
+    
 .agencja:hover{
-    color:#2196F3;
-    text-decoration: underline;}
+    color:#2196F3;}
 
 .portfolio:hover{
-    color:#2196F3;
-    text-decoration: underline;}
+    color:#2196F3;}
 
 .kontakt:hover{
-    color:#2196F3;
-    text-decoration: underline;}
+    color:#2196F3;}
 
 .link:hover{
-    color:#2196F3;
-    text-decoration: underline;}
+    color:#2196F3;}
 
 .link1:hover{
-    color: #2196F3;
-    text-decoration: underline;}
+    color: #2196F3;}
 
 .button-portfolio:hover{
     color: #FFFFFF;
